@@ -1,5 +1,5 @@
 using Refit;
-using static GoogleSheetsHandler.GoogleSheetsEndpoints;
+using static GoogleSheetsHandler.Endpoints.GoogleSheetsEndpoints;
 using GoogleSheetsHandler.RefitAPIs;
 
 var builder = WebApplication.CreateBuilder(args);

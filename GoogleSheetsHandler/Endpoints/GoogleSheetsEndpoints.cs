@@ -1,7 +1,7 @@
 ﻿using GoogleSheetsHandler.Models;
 using GoogleSheetsHandler.RefitAPIs;
 
-namespace GoogleSheetsHandler;
+namespace GoogleSheetsHandler.Endpoints;
 
 public static class GoogleSheetsEndpoints
 {
