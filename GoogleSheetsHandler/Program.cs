@@ -1,5 +1,6 @@
-using static GoogleSheetsEndpoints;
 using Refit;
+
+using static GoogleSheetsHandler.GoogleSheetsEndpoints;
 using GoogleSheetsHandler.RefitAPIs;
 
 var builder = WebApplication.CreateBuilder(args);
